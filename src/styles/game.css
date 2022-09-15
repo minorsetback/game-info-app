@@ -1,0 +1,11 @@
+
+.image {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.title,
+.text {
+  text-align: center;
+}
